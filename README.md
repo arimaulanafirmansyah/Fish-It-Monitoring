@@ -34,7 +34,7 @@ EN: Monitor the script status and updates here:
 ID: Pantau status script dan update terbaru di:
 🔗 https://amfcode.my.id/monitor-fishit
 
-** 💬 Join Our Discord
+## 💬 Join Our Discord
 
 EN: Join the Discord community for updates, support, and discussions:
 🔗 https://discord.gg/SWQZJDpvYu
@@ -42,13 +42,13 @@ EN: Join the Discord community for updates, support, and discussions:
 ID: Bergabung dengan Discord untuk update, support, dan diskusi:
 🔗 https://discord.gg/SWQZJDpvYu
 
-** ⚠️ Disclaimer / Penafian
+## ⚠️ Disclaimer / Penafian
 
 EN: This script is intended for educational purposes only. Use at your own risk.
 
 ID: Script ini dibuat hanya untuk tujuan edukasi. Penggunaan sepenuhnya menjadi tanggung jawab pengguna.
 
-** 📝 Notes / Catatan
+## 📝 Notes / Catatan
 
 Ensure your executor supports loadstring / Pastikan executor mendukung loadstring
 
