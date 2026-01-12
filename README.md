@@ -1,8 +1,8 @@
 # 🎣 Fish It Script Monitoring | Monitoring Script Fish It
 
-[![Repo Size](https://img.shields.io/github/repo-size/username/repo)](https://github.com/username/repo)
-[![Last Commit](https://img.shields.io/github/last-commit/username/repo)](https://github.com/username/repo)
-[![Issues](https://img.shields.io/github/issues/username/repo)](https://github.com/username/repo)
+[![Repo Size](https://img.shields.io/github/repo-size/arimaulanafirmansyah/Fish-It-Monitoring)](https://github.com/arimaulanafirmansyah/Fish-It-Monitoring)
+[![Last Commit](https://img.shields.io/github/last-commit/arimaulanafirmansyah/Fish-It-Monitoring)](https://github.com/arimaulanafirmansyah/Fish-It-Monitoring)
+[![Issues](https://img.shields.io/github/issues/arimaulanafirmansyah/Fish-It-Monitoring)](https://github.com/arimaulanafirmansyah/Fish-It-Monitoring)
 [![Discord](https://img.shields.io/discord/123456789012345678?color=7289DA&label=Discord)](https://discord.gg/SWQZJDpvYu)
 [![Website](https://img.shields.io/badge/Website-Online-brightgreen)](https://amfcode.my.id/monitor-fishit)
 
@@ -34,7 +34,7 @@ EN: Monitor the script status and updates here:
 ID: Pantau status script dan update terbaru di:
 🔗 https://amfcode.my.id/monitor-fishit
 
-💬 Join Our Discord
+** 💬 Join Our Discord
 
 EN: Join the Discord community for updates, support, and discussions:
 🔗 https://discord.gg/SWQZJDpvYu
@@ -42,13 +42,13 @@ EN: Join the Discord community for updates, support, and discussions:
 ID: Bergabung dengan Discord untuk update, support, dan diskusi:
 🔗 https://discord.gg/SWQZJDpvYu
 
-⚠️ Disclaimer / Penafian
+** ⚠️ Disclaimer / Penafian
 
 EN: This script is intended for educational purposes only. Use at your own risk.
 
 ID: Script ini dibuat hanya untuk tujuan edukasi. Penggunaan sepenuhnya menjadi tanggung jawab pengguna.
 
-📝 Notes / Catatan
+** 📝 Notes / Catatan
 
 Ensure your executor supports loadstring / Pastikan executor mendukung loadstring
 
@@ -56,13 +56,3 @@ Use responsibly / Gunakan script dengan bijak
 
 Script may change anytime / Script dapat berubah sewaktu-waktu
 
-
----
-
-Kalau mau, saya bisa bikin versi **lebih keren lagi** dengan:  
-
-- Banner GitHub custom di atas README  
-- Badges tambahan (versi script terbaru, maintenance status, dll)  
-- Highlight untuk “Script Loader” agar lebih menarik  
-
-Ini akan membuat README terlihat **profesional dan eye-catching**.  
