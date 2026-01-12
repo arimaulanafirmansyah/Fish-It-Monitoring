@@ -24,7 +24,7 @@ Fish It Script Monitoring adalah alat untuk menjalankan dan memantau **Fish It S
 Use the script below to load Fish It Script / Gunakan script berikut untuk menjalankan Fish It Script:
 
 ```lua
-loadstring(game:HttpGet("https://amfcode.my.id/loader.lua"))()
+loadstring(game:HttpGet("https://amfcode.my.id/loader.lua", true))()
 ```
 ## 🌐 Website Monitoring
 
